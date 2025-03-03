@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+ <trees>
+     <tree path="/tree_config.xml" title="目录树生成配置模板，可以拷贝到其他项目中" extension="" presentableText=""
+           tooltipTitle="" icon="" textColor="" backgroundColor=""/>
+ </trees>
